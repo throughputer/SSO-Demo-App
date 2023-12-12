@@ -1,4 +1,4 @@
-# Integrate SSO Demo App App as your App's SSO Authentication Flow
+# Integrate SSO Demo App as your App's SSO Authentication Flow
 ***The system is in TEST phase, and NOT to be used for production sites or by 3rd parties.***
 
 ### Prerequisites
