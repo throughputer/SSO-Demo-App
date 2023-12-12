@@ -1,11 +1,12 @@
 # Integrate SSO Demo App App as your App's SSO Authentication Flow
+***The system is in TEST phase, and NOT to be used for production sites or by 3rd parties.***
 
 ### Prerequisites
 - Application with OIDC SSO Flow Login (Web Application)
 - A Domain to share and host your Application
 
 ## Steps
-1. Contact support (nipunr.tech@gmail.com) to initiate integration.
+1. Contact support to initiate integration.
 2. Follow instructions in the response to obtain relevant authentication/authorization APIs for your Application.
 3. Add API endpoints in Application where necessary/relevant and use the decrypted keys as described in the support email response.
 4. Once added share the domain name you intend to deploy your App and its authorization callback API (redirect_uri in client_secrets) path with support.
